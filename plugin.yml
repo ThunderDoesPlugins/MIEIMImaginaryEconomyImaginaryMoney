@@ -1,0 +1,11 @@
+{
+  "name": "MIEIMImaginaryEconomyImaginaryMoney",
+  "main": "Thunder33345\\MIEIM\\ImaginaryEconomy",
+  "author": "Thunder33345",
+  "description": "The next generation economy plugin! Lightweight and simple!",
+  "website": "https://github.com/ThunderDoesPlugins/MIEIMImaginaryEconomyImaginaryMoney",
+  "version": "1.0.0",
+  "api": [
+    "3.0.0"
+  ],
+}
